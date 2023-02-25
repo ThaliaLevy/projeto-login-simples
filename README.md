@@ -4,7 +4,6 @@ Realizado ao final do primeiro módulo do curso de formação Fullstack da Step 
 Exercícios de fixação e desafios deste módulo podem ser encontrados neste outro repositório: https://github.com/ThaliaLevy/step-computer-academy-modulo01
 </p>
 
-
 <h4>Tecnologias utilizadas:</h4>
 
 <p>
